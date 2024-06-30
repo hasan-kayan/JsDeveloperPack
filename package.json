@@ -1,0 +1,24 @@
+{
+  "name": "jsdeveloperpack",
+  "version": "1.0.0",
+  "description": "A developer tool for make everything easy and fun ",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasan-kayan/JsDeveloperPack.git"
+  },
+  "keywords": [
+    "JS",
+    "React",
+    "NodeJs"
+  ],
+  "author": "HasanKayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasan-kayan/JsDeveloperPack/issues"
+  },
+  "homepage": "https://github.com/hasan-kayan/JsDeveloperPack#readme"
+}
