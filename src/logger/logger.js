@@ -1,5 +1,5 @@
 // logger.js
-
+const styles = require('./logStyles');
 const defaultStyles = {
     info: 'color: blue;',
     warning: 'color: orange;',
