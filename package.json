@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hasan-kayan/JsDeveloperPack/issues"
   },
-  "homepage": "https://github.com/hasan-kayan/JsDeveloperPack#readme"
+  "homepage": "https://github.com/hasan-kayan/JsDeveloperPack#readme",
+  "dependencies": {
+    "eslint": "^9.6.0"
+  }
 }
